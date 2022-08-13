@@ -1,0 +1,27 @@
+{
+    "user": [
+        {
+            "id":1,
+            "name": "seungho",
+            "age": 21
+        },
+        {
+            "id":2,
+            "name":"asepa",
+            "age":23
+        },
+        {
+            "id":3,
+            "name":"any",
+            "age":24
+        }
+    ],
+    "car" :[
+        {
+            "id":1,
+            "owner_id":1,
+            "car_type":"KIA K5"
+
+        }
+    ]
+}
